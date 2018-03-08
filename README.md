@@ -5,3 +5,5 @@ Feature branch based on master
 Chanes on feature
 
 I do on feature
+
+Other changes
