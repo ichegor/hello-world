@@ -8,4 +8,4 @@ I do on feature
 
 Other changes
 
-Another changes master
+Another changes master MASTER
