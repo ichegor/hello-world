@@ -1,2 +1,1 @@
-New file feature
-New file master
+New file
